@@ -5,6 +5,7 @@
 void triangles();
 char getch();
 
+//?arf a[ kopmmena
 
 void main() {
 
